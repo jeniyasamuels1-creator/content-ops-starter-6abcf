@@ -209,7 +209,7 @@ sections:
       - url: /images/Phlebotomy-Program1.jpg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/Phlebotomy-Program2.jpg
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
