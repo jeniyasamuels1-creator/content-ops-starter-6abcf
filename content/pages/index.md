@@ -314,7 +314,7 @@ sections:
       text: Register Now
       color: text-dark
       type: TitleBlock
-    subtitle: TBD
+    subtitle: Next Cohort Starting
     text: |
       TBD
     actions:
