@@ -65,13 +65,10 @@ sections:
         title: 500k
         subtitle: Numbers Done
         text: >+
-          ### **Phlebotomy Fundamentals & Safety**
-
-
-          <div style="text-align: left">Introduction to phlebotomy and the role
-          of a phlebotomistAnatomy & physiology of the circulatory
-          systemInfection control & standard precautionsProper use of PPESafety
-          protocols and preventing needlestick injuries</div>
+          Introduction to phlebotomy and the role of a phlebotomistAnatomy &
+          physiology of the circulatory systemInfection control & standard
+          precautionsProper use of PPESafety protocols and preventing
+          needlestick injuries
 
         actions: []
         elementId: null
