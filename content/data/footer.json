@@ -30,7 +30,7 @@
                 "type": "Link",
                 "label": "Sign up for Email Updates",
                 "altText": "Sign up for Email Updates",
-                "url": "/signup",
+                "url": "/signupforemailupdates",
                 "showIcon": true,
                 "icon": "send",
                 "iconPosition": "right",
