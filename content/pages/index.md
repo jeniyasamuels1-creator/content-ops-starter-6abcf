@@ -63,7 +63,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Phlebotomy Fundamentals & Safety
-        subtitle: Numbers Done
+        subtitle: ''
         text: |+
 
 
