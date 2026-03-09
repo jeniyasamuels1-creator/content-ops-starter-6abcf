@@ -23,7 +23,7 @@
         {
             "label": "Gradutes",
             "altText": "Gradutes",
-            "url": "/blog",
+            "url": "/gradutes",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
