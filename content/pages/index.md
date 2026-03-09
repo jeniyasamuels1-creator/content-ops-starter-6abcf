@@ -316,7 +316,7 @@ sections:
       type: TitleBlock
     subtitle: Next Cohort Starting
     text: |
-      TBD
+      June 2027
     actions:
       - label: Get started
         url: /
