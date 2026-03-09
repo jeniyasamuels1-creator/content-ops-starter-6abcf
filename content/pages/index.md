@@ -314,7 +314,7 @@ sections:
       text: TDB
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: TBD
     text: |
       TBD
     actions:
