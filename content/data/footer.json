@@ -11,7 +11,7 @@
             {
                 "label": "About the Founder",
                 "altText": "careers page",
-                "url": "/careers",
+                "url": "/aboutthefounder",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
