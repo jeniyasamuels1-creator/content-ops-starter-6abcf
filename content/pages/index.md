@@ -35,7 +35,8 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Phlebotomy-Program2.jpg
+      url: >-
+        /images/phlebotomy-biochemical-analysis-laboratory-exam-260nw-1374968279.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
