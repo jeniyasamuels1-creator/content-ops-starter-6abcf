@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Three Core Sections of Phlebotomy
     items:
       - type: FeaturedItem
         title: Phlebotomy Fundamentals & Safety
