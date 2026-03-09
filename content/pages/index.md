@@ -236,11 +236,21 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Our Mission
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      *At \[Your Company Name], our mission is to empower young women in the
+      Clinton Hill, Maryland community by providing compassionate, high‑quality
+      phlebotomy services and supportive, hands-on training. We are dedicated to
+      creating a safe, encouraging environment where beginners can build
+      confidence, develop essential skills, and prepare for successful careers
+      in phlebotomy.*
+
+
+      *Through expert instruction, personalized guidance, and a genuine
+      commitment to service, we strive to uplift every learner who walks through
+      our doors. Our goal is not only to teach the technical aspects of
+      phlebotomy, but also to nurture professionalism, empathy, and
+      excellence—helping each student thrive in both their education and their
+      future healthcare journey.*
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
