@@ -138,7 +138,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Specimen Handling & Laboratory Procedures
-        subtitle: Faster
+        subtitle: ''
         text: |+
 
 
