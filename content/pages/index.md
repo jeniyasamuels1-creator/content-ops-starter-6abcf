@@ -311,7 +311,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: TDB
+      text: Register Now
       color: text-dark
       type: TitleBlock
     subtitle: TBD
