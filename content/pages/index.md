@@ -219,7 +219,7 @@ sections:
       - url: /images/phlebotomist_does_GettyImages1243736115_Header-1024x575.avif
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/phlebotomy-how-to-draw-blood-with-venipuncture.jpg
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
