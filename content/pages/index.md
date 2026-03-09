@@ -216,7 +216,7 @@ sections:
       - url: /images/Nursing-DSC02953-1024x684.jpg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/Nursing-DSC02953-1024x684.jpg
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
