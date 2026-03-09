@@ -237,7 +237,7 @@ sections:
       type: TitleBlock
     subtitle: Our Mission
     text: >
-      *At \[Your Company Name], our mission is to empower young women in the
+      *At Stick Lab Academy, our mission is to empower young women in the
       Clinton Hill, Maryland community by providing compassionate, high‑quality
       phlebotomy services and supportive, hands-on training. We are dedicated to
       creating a safe, encouraging environment where beginners can build
