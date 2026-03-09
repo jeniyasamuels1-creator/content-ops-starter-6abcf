@@ -222,7 +222,7 @@ sections:
       - url: /images/phlebotomy-how-to-draw-blood-with-venipuncture.jpg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/Medical-Assistant-Equipment.webp
         altText: Sanity logo
         type: ImageBlock
       - url: /images/Nursing-DSC02953-1024x684.jpg
