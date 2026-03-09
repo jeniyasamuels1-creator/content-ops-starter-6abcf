@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Blood Collection Techniques
 slug: /
 sections:
   - type: GenericSection
