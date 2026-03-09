@@ -62,7 +62,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
+        title: 500kPhlebotomy Fundamentals & Safety
         subtitle: Numbers Done
         text: >+
           Introduction to phlebotomy and the role of a phlebotomistAnatomy &
