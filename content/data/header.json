@@ -22,7 +22,7 @@
         },
         {
             "label": "Cohorts",
-            "altText": "Gradutes",
+            "altText": "Cohorts",
             "url": "/gradutes",
             "icon": "arrowRight",
             "iconPosition": "right",
