@@ -29,7 +29,7 @@
             {
                 "type": "Link",
                 "label": "Sign up for updates",
-                "altText": "Send",
+                "altText": "Sign up for Email Updates",
                 "url": "/signup",
                 "showIcon": true,
                 "icon": "send",
