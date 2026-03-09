@@ -265,7 +265,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: Join Our Online and On-site Classes
     text: >+
 
       Our phlebotomy classes are designed to give every student a clear,
