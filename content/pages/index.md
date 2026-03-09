@@ -229,7 +229,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Your journey into phlebotomy starts here—with support and purpose.
       color: text-dark
       styles:
         self:
