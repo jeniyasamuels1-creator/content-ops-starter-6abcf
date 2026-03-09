@@ -19,7 +19,7 @@
             },
             {
                 "label": "Contact Us",
-                "url": "/blog",
+                "url": "/contactus",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
