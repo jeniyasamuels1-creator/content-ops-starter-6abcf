@@ -216,7 +216,8 @@ sections:
       - url: /images/Nursing-DSC02953-1024x684.jpg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/Nursing-DSC02953-1024x684.jpg
+      - url: >-
+          /images/phlebotomy-biochemical-analysis-laboratory-exam-260nw-1374968279.jpg
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
