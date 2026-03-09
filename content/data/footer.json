@@ -28,7 +28,7 @@
             },
             {
                 "type": "Link",
-                "label": "Sign up for Email Updates",
+                "label": "Sign up",
                 "altText": "Sign up for Email Updates",
                 "url": "/signupforemailupdates",
                 "showIcon": true,
