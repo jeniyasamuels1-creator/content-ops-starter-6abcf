@@ -32,7 +32,7 @@
         {
             "label": "Cohorts",
             "altText": "Cohorts",
-            "url": "/contactus",
+            "url": "/cohorts",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
