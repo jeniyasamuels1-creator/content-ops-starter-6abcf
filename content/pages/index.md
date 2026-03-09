@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Three Core Sections of Phlebotomy
+    subtitle: Core Sections of Phlebotomy We Focus on
     items:
       - type: FeaturedItem
         title: Phlebotomy Fundamentals & Safety
