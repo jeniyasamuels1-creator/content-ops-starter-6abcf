@@ -104,7 +104,9 @@ sections:
       - title: Blood Collection Techniques
         subtitle: ''
         text: |+
-          ## Venipuncture step‑by‑step procedures
+          #
+
+          *   Venipuncture step‑by‑step procedures
 
           *   Capillary (fingerstick/heelstick) collection
 
@@ -115,6 +117,8 @@ sections:
           *   Patient identification & communication
 
           *   Hands‑on practice with mannequins and live draws
+
+
 
         image:
           url: /images/icon2.svg
