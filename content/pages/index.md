@@ -266,11 +266,21 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      Our phlebotomy classes are designed to give every student a clear,
+      comprehensive, and confidence‑building learning experience. We offer both
+      in‑person and online training options to fit your schedule and learning
+      style, without compromising on the quality of instruction. Each session is
+      packed with practical guidance, real‑world techniques, and supportive
+      coaching to ensure you understand not just *how* to perform phlebotomy,
+      but *why* each step matters. Whether you're joining us in the classroom or
+      learning from home, our goal is to provide an informative, hands‑on
+      approach that prepares you for success in the field. With expert
+      instructors and a curriculum built around clarity, compassion, and skill
+      development, we’re here to help you grow into a confident, capable
+      healthcare professional.
+
     actions: []
     media:
       title: Title of the video
