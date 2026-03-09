@@ -205,37 +205,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Where Confidence Meets the Needle
-    images:
-      - url: /images/Phlebotomy-Program1.jpg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/Phlebotomy-Program2.jpg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/Nursing-DSC02953-1024x684.jpg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/phlebotomist_does_GettyImages1243736115_Header-1024x575.avif
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/phlebotomy-how-to-draw-blood-with-venipuncture.jpg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/Medical-Assistant-Equipment.webp
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/Nursing-DSC02953-1024x684.jpg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
