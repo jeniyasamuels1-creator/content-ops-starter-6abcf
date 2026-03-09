@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Unlock Your Skillset and Potential
       color: text-dark
       type: TitleBlock
     subtitle: Your Future Starts Here
