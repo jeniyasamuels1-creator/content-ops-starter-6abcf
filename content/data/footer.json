@@ -5,41 +5,6 @@
         "type": "ImageBlock"
     },
     "text": "Draw Your Future with Us\n",
-    "secondaryLinks": {
-        "title": "Company",
-        "links": [
-            {
-                "label": "About the Founder",
-                "altText": "CEO/Founder",
-                "url": "/aboutthefounder",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Contact Us",
-                "url": "/contactus",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link",
-                "altText": "Contact Us"
-            },
-            {
-                "type": "Link",
-                "label": "Sign up for Email Updates",
-                "altText": "Sign up for Email Updates",
-                "url": "/signupforemailupdates",
-                "showIcon": true,
-                "icon": "send",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
     "socialLinks": [
         {
             "altText": "GitHub link",
