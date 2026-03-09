@@ -33,7 +33,7 @@
         {
             "label": "Blog",
             "altText": "Blog",
-            "url": "/cohorts",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
