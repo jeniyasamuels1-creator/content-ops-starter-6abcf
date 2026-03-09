@@ -31,7 +31,7 @@
         },
         {
             "label": "Cohorts",
-            "altText": "Contact Us page",
+            "altText": "Cohorts",
             "url": "/contactus",
             "icon": "arrowRight",
             "iconPosition": "right",
