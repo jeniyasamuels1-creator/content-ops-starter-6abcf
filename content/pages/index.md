@@ -62,7 +62,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: Phlebotomy Fundamentals & Safety
+        title: Phlebotomy Fundamentals & Saf
         subtitle: Numbers Done
         text: >+
           Introduction to phlebotomy and the role of a phlebotomistAnatomy &
