@@ -103,7 +103,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Blood Collection Techniques
-        subtitle: The Job Stuff
+        subtitle: ''
         text: |+
           *   Venipuncture step‑by‑step procedures
 
