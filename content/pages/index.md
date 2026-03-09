@@ -206,7 +206,7 @@ sections:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/Phlebotomy-Program1.jpg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
