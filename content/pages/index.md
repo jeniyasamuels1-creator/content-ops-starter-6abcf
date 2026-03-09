@@ -64,11 +64,21 @@ sections:
       - type: FeaturedItem
         title: Phlebotomy Fundamentals & Safety
         subtitle: Numbers Done
-        text: >+
-          Introduction to phlebotomy and the role of a phlebotomistAnatomy &
-          physiology of the circulatory systemInfection control & standard
-          precautionsProper use of PPESafety protocols and preventing
-          needlestick injuries
+        text: |+
+
+
+          *   Introduction to phlebotomy and the role of a phlebotomist
+
+          *   Anatomy & physiology of the circulatory system
+
+          *   Infection control & standard precautions
+
+          *   Proper use of PPE
+
+          *   Safety protocols and preventing needlestick injuries
+
+
+
 
         actions: []
         elementId: null
