@@ -64,10 +64,21 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          ### **Phlebotomy Fundamentals & Safety**
+
+          *   Introduction to phlebotomy and the role of a phlebotomist
+
+          *   Anatomy & physiology of the circulatory system
+
+          *   Infection control & standard precautions
+
+          *   Proper use of PPE
+
+          *   Safety protocols and preventing needlestick injuries
+
+
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
