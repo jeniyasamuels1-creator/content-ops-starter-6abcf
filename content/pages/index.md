@@ -139,10 +139,21 @@ sections:
         type: FeaturedItem
       - title: Specimen Handling & Laboratory Procedures
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+
+
+          *   Correct labeling, storing, and transporting samples
+
+          *   Avoiding hemolysis and contamination
+
+          *   Understanding test requirements (e.g., fasting, timing)
+
+          *   Documentation and quality control
+
+          *   Working with lab personnel and workflow
+
+
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
