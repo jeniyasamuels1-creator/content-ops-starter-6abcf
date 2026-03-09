@@ -30,7 +30,7 @@
             "type": "Link"
         },
         {
-            "label": "Contact Us",
+            "label": "Cohorts",
             "altText": "Contact Us page",
             "url": "/contactus",
             "icon": "arrowRight",
