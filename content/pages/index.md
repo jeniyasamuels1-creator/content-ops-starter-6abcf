@@ -8,10 +8,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Your Future Starts Here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Our phlebotomy classes provide hands‑on training, expert guidance, and
+      real‑world skills to help you step confidently into the healthcare field.
+      Whether you're just beginning or looking to strengthen your technique, we
+      offer a supportive learning environment designed to prepare you for
+      success on day one of your phlebotomy career.
+
     actions:
       - label: Get started
         altText: ''
