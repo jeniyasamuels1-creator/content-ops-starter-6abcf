@@ -44,7 +44,7 @@
         {
             "label": "Register",
             "altText": "Register",
-            "url": "https://app.netlify.com/signup",
+            "url": "https://app.netlify.com/register",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
