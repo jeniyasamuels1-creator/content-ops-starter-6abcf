@@ -68,7 +68,12 @@ sections:
           <div style="text-align: left">*   *   Introduction to phlebotomy and
           the role of a phlebotomist*   Anatomy & physiology of the circulatory
           system*   Infection control & standard precautions*   Proper use of
-          PPE*   Safety protocols and preventing needlestick injuries</div>
+          PPE*   Safety protocols and preventing needlestick injuries
+
+
+
+
+          </div>
 
         actions: []
         elementId: null
