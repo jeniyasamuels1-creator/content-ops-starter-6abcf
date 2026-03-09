@@ -24,7 +24,7 @@
         {
             "label": "Contact",
             "altText": "Contact",
-            "url": "/cohorts",
+            "url": "/contact",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
