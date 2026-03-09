@@ -23,7 +23,7 @@
         },
         {
             "label": "Contact",
-            "altText": "Cohorts",
+            "altText": "Contact",
             "url": "/cohorts",
             "icon": "arrowRight",
             "iconPosition": "right",
