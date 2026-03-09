@@ -204,7 +204,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Where Confidence Meets the Needle
     images:
       - url: /images/Phlebotomy-Program1.jpg
         altText: Empathy logo
